@@ -1,4 +1,4 @@
-django<2
+django<1.11
 setuptools
 pyodbc>3.0
 django-pyodbc-azure==1.10.0.1
